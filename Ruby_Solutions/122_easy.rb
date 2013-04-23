@@ -1,5 +1,5 @@
 # challenges from reddit.com/r/dailyprogrammer
-# Challenge 001 Intermediate 
+# Challenge 122 Easy 
 
 # Find words in a word list that contain all the 
 # vowels in alphabetical order, non-repeated, where 

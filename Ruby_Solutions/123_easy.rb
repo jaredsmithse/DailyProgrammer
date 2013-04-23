@@ -1,3 +1,12 @@
+# challenges from reddit.com/r/dailyprogrammer
+# Challenge 123 Easy 
+
+# As a crude form of hashing function, Lars wants to sum the digits of 
+# a number. Then he wants to sum the digits of the result, and repeat 
+# until he have only one digit left. He learnt that this is called the 
+# [2] digital root of a number, but the Wikipedia article is just 
+# confusing him.
+
 def digital_root(int)
 	#get the sum of digits
 	sum = 0
